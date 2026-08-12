@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm a polyglot developer who works across data, we
 ## Get in touch
 
 - GitHub: [AmanPr0f](https://github.com/AmanPr0f)
-- Email: (add your email here)
+- Email: [amanpr0f.dev@gmail.com]
 
 ---
 
