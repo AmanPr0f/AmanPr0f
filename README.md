@@ -1,12 +1,12 @@
 # Hi — I'm Aman 👋
 
-Welcome to my GitHub profile! I'm a polyglot developer who works across data, web, and systems technologies. I build Python data experiments and notebooks, web interfaces (HTML/CSS/JavaScript), and small systems or backend components in languages like C, C++, C#, Java, and Kotlin.
+Welcome to my GitHub profile! I'm a polyglot developer who works across data, web, and systems technologies. I build Python data experiments and notebooks, web interfaces (HTML/CSS/JavaScript), and[...]
 
 ---
 
 ## About Me
 
-- 🔭 I build projects that span data, web, and systems: Python & Jupyter for data experiments, HTML/CSS/JavaScript for front-end work, and C / C++ / C# / Java / Kotlin for systems and application code.
+- 🔭 I build projects that span data, web, and systems: Python & Jupyter for data experiments, HTML/CSS/JavaScript for front-end work, and C / C++ / C# / Java / Kotlin for systems and application[...]
 - 🎮 I make games for fun.
 - 🌱 I'm learning to deepen my machine learning skills and improve cross-language tooling and testing.
 - 👯 I enjoy collaborating on full-stack and cross-discipline projects (data pipelines, web UIs, and native modules).
@@ -43,6 +43,12 @@ Welcome to my GitHub profile! I'm a polyglot developer who works across data, we
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- Data science badges -->
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img alt="seaborn" src="https://img.shields.io/badge/seaborn-1f77b4?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ## Featured Projects
