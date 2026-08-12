@@ -1,6 +1,6 @@
 # Hi — I'm Aman 👋
 
-Welcome to my GitHub profile! I'm a developer who works primarily with Python and Jupyter Notebooks. I build small Python projects, experiments, and data-analysis notebooks — you can find a few featured repos below.
+Welcome to my GitHub profile! I'm a developer who works primarily with Python and Jupyter Notebooks, and I also work with several other languages and technologies. I build small Python projects, experiments, and data-analysis notebooks — you can find a few featured repos below.
 
 ---
 
@@ -12,9 +12,20 @@ Welcome to my GitHub profile! I'm a developer who works primarily with Python an
 
 ## Languages & Tools
 
-- Primary: Python
-- Notebooks: Jupyter Notebook (.ipynb)
-- Tools: Git, GitHub, pandas, matplotlib (learning)
+Here's an up-to-date list of languages and tools I work with (public and private repositories):
+
+- Python (GAME — public; various private notebooks)
+- Jupyter Notebook (.ipynb) (Project, DL, MLs-Models, NLP, Python — many data/ML experiments)
+- C# (CSharp — private)
+- C / C++ (C, CPP — private)
+- Java (Java — private)
+- JavaScript (JavaScript — private)
+- Kotlin (Kotlin — private)
+- HTML (HTML — private)
+- MySQL (MySQL — private)
+- Git, GitHub
+
+If any of these are incorrect or you want to emphasize a different set, tell me which ones to change.
 
 ## Featured Projects
 
