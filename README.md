@@ -12,18 +12,18 @@ Welcome to my GitHub profile! I'm a developer who works primarily with Python an
 
 ## Languages & Tools
 
-Here's an up-to-date list of languages and tools I work with (public and private repositories):
-
-- Python (GAME — public; various private notebooks)
-- Jupyter Notebook (.ipynb) (Project, DL, MLs-Models, NLP, Python — many data/ML experiments)
-- C# (CSharp — private)
-- C / C++ (C, CPP — private)
-- Java (Java — private)
-- JavaScript (JavaScript — private)
-- Kotlin (Kotlin — private)
-- HTML (HTML — private)
-- MySQL (MySQL — private)
-- Git, GitHub
+- Python
+- Jupyter Notebook
+- C#
+- C
+- C++
+- Java
+- JavaScript
+- Kotlin
+- HTML
+- MySQL
+- Git
+- GitHub
 
 If any of these are incorrect or you want to emphasize a different set, tell me which ones to change.
 
