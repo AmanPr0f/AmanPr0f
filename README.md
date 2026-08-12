@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi — I'm Aman 👋
 
-<!--
-**AmanPr0f/AmanPr0f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer who works primarily with Python and Jupyter Notebooks. I build small Python projects, experiments, and data-analysis notebooks — you can find a few featured repos below.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔭 I work on Python projects (including games and small applications).
+- 🌱 I'm learning data analysis, visualization, and introductory machine learning.
+- 👯 I enjoy collaborating on Python and notebook-based projects.
+
+## Languages & Tools
+
+- Primary: Python
+- Notebooks: Jupyter Notebook (.ipynb)
+- Tools: Git, GitHub, pandas, matplotlib (learning)
+
+## Featured Projects
+
+- [GAME](https://github.com/AmanPr0f/GAME) — A Python project with games and interactive experiments.
+- [Project](https://github.com/AmanPr0f/Project) — Jupyter Notebook projects with data experiments and analyses.
+
+## What I'm learning
+
+- Data analysis and visualization with pandas and matplotlib
+- Basics of machine learning and model prototyping in notebooks
+
+## Get in touch
+
+- GitHub: [AmanPr0f](https://github.com/AmanPr0f)
+- Email: (add your email here)
+
+---
+
+Thanks for visiting — feel free to check out my repositories and say hi! 👋
