@@ -1,6 +1,6 @@
 # Hi — I'm Aman 👋
 
-Welcome to my GitHub profile! I'm a polyglot developer who works across data, web, and systems technologies. I build Python data experiments and notebooks, web interfaces (HTML/CSS/JavaScript), and C / C++ / C# / Java / Kotlin for systems and applications build.
+Welcome to my GitHub profile! I'm a polyglot developer who works across data, web, and systems technologies. I build Python data experiments and notebooks, web interfaces (HTML/CSS/JavaScript), and systems and applications build(C / C++ / C# / Java / Kotlin).
 
 ---
 
